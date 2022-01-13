@@ -8,8 +8,7 @@ Hi, welcome to my GitHub! I'm Damian, a Full Stack Junior Developer (Java/React)
 I'm looking for projects that allow me to continue expanding my knowledge in Java, React or both at the same time. </br>
 
 - 🔭 Currently, I'm the project and database administrator of my first commercial project released: **Trattoria Amici v1.1.0**, an online ordering system with admin panel for restaurants.
-- 🍕 **Trattoria Amici v1.1.0** nowadays has processed around 500 orders and deliveries. You can visit the site online by clicking [HERE](https://www.trattoriaamici.pl)
-- 💡 I'd like to collaborate with open source projects as well
+- 🍕 **Trattoria Amici v1.1.0** nowadays has processed more than 1000 orders and deliveries. You can visit the site online by clicking [HERE](https://www.trattoriaamici.pl)
 - 📫 How to contact me: damianlujep@gmail.com.
 - 🎮 Hobbies: Video games, football, coding, and travel
 
