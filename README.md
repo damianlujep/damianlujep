@@ -15,7 +15,7 @@ I'm looking for projects that allow me to continue expanding my knowledge in Jav
 :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/-damianlujep-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:damianlujep@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-damianlujep-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-luje/)
+[![Linkedin Badge](https://img.shields.io/badge/-damianlujep-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/damianlujep/)
 
 ### Technologies & Tools
 
