@@ -71,7 +71,7 @@ I'm looking for projects that allow me to continue expanding my knowledge in Jav
 Originally from Ecuador 🇪🇨, currently living permanently in Poland 🇵🇱 for more than 7 years.</br>
 Graduated as a Oil and Gas Engineer from AGH University of Technology, that helped me to start working on a web application for the Oil & Gas industry.</br>
 
-####Languages:
+#### Languages:
 * 🇪🇸 Spanish (mother tongue)
 * 🇬🇧 English
 * 🇵🇱 Polish
