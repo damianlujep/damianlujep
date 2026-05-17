@@ -1,10 +1,10 @@
 # Hi, I'm Damian 👨‍💻
-Full Stack Junior Developer (Java/React) and co-founder of Melatrix Team IT.
+Full Stack Developer (Java/React) and co-founder of Melatrix Team IT.
 
 <hr/>
 
 ### About me
-Hi, welcome to my GitHub! I'm Damian, a Full Stack Junior Developer (Java/React). 
+Hi, welcome to my GitHub! I'm Damian, a Full Stack Developer (Java/React). 
 I'm looking for projects that allow me to continue expanding my knowledge in Java, React or both at the same time. </br>
 
 - 🔭 Currently, I'm the project and database administrator of my first commercial project released: **Trattoria Amici v1.1.0**, an online ordering system with admin panel for restaurants.
